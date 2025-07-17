@@ -83,3 +83,7 @@ truncate table mydb.staging.pets_data_raw;
 truncate table mydb.staging.emp_data;
 truncate table mydb.staging.customer;
 */
+
+
+
+--comment
