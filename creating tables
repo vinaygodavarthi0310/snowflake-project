@@ -84,6 +84,5 @@ truncate table mydb.staging.emp_data;
 truncate table mydb.staging.customer;
 */
 
-
-
+--vinay
 --comment
