@@ -85,4 +85,6 @@ truncate table mydb.staging.customer;
 */
 
 --vinay
+
+
 --comment
